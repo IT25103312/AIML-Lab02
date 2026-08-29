@@ -1,1 +1,36 @@
+Exercise 3: Generative AI for Academic Learning (Reasoning Models)
+
+1. LLMs Used:
+- DeepSeek-R1 
+- Qwen 2.5 Thinking 
+- Grok 
+
+2. Report: How University Students Can Use Generative AI to Learn Complex Subjects
+
+Generative AI equipped with reasoning and deep-thinking capabilities serves as a personalized 24/7 academic tutor for computer science and engineering students. Here is how it can be applied across core subjects:
+
+A. Probability and Statistics:
+- Conceptual Breakdown: Explaining abstract mathematical concepts (e.g., Bayes' Theorem, Poisson Distribution, or Central Limit Theorem) using real-life analogies.
+- Step-by-Step Problem Solving: Walking through complex statistical derivations, joint probability density functions, and standard error formulas.
+- Data Analysis Assistance: Generating sample datasets and writing Python or R scripts to visualize probability distributions and run hypothesis tests (t-tests, ANOVA).
+
+B. Database Management Systems (DBMS):
+- Query Optimization & Writing: Generating and debugging complex SQL queries involving multi-table JOINs, subqueries, and window functions.
+- Schema & ERD Design: Converting functional requirements into normalized database schemas (1NF, 2NF, 3NF, BCNF) and entity-relationship models.
+- Transaction Management: Explaining concurrency control, ACID properties, indexing mechanisms (B+ trees), and deadlocks with interactive examples.
+
+C. Software Engineering:
+- Code Architecture & Design Patterns: Demonstrating design patterns (e.g., Factory, Observer, Singleton) with clean implementation examples in Object-Oriented Programming.
+- Code Review & Debugging: Identifying logical bugs, edge cases, memory leaks, and performance bottlenecks in existing code bases.
+- Requirement Analysis & Testing: Converting user stories into test cases, unit tests (e.g., JUnit, PyTest), and automated test suites.
+
+3. Reflection and Tool Comparison:
+
+- Useful Findings:
+  * Reasoning models excel at breaking down multi-step logic rather than just providing immediate answers.
+  * DeepSeek-R1 and Qwen Thinking show their internal chain-of-thought, making it easy to spot mathematical or logical mistakes in problem-solving.
+  * Grok's DeepSearch is particularly effective at pulling current real-world software engineering documentation and up-to-date syntax examples.
+
+- Best Tool Recommendation:
+  In my opinion, DeepSeek-R1 produced the best and most structured results for technical subjects. Its step-by-step reasoning process clearly laid out mathematical proofs and SQL queries with concise explanations, making it the most effective tool for self-guided university learning.
 
