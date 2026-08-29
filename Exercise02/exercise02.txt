@@ -1,1 +1,39 @@
+Exercise 2: LLM Leaderboard and Model Testing
+
+1. Favorite LLM Ranking:
+- Model: GPT-4o
+- Leaderboard Rank: Top 3 on Artificial Analysis
+
+2. Testing Model 1 - Laguna S 2.1 (free)
+Prompt 1 : Explain what an API is in one simple sentence.
+Response 1 : An API (Application Programming Interface) is a set of rules that allows one software application to communicate and interact with              another, enabling them to exchange data and functionality seamlessly.
+
+Prompt 2 : Write a Python function that takes a number and returns True if it is even.
+Response 2 : Here's a simple Python function that checks if a number is even:
+  def is_even(number):
+      """Check if a number is even."""
+      return number % 2 == 0
+
+
+  **How it works:**
+  - The function takes one parameter called `number`.
+  - It uses the modulo operator (`%`) to divide the number by 2.
+  - If there's no remainder (i.e., `% 2 == 0`), the number is even, so it returns `True`.
+  - Otherwise, it returns `False`.
+
+  **Example usage:**
+  print(is_even(4))  # Output: True
+  print(is_even(7))  # Output: False
+
+
+3.Testing Model 2 - Nemotron 3.5 Lightning (free)
+Prompt 1 : Explain what an API is in one simple sentence.
+Response 1 : An API (Application Programming Interface) is a set of rules and protocols that allow different software applications to
+             communicate and share data with each other.
+
+Prompt 2 : Write a Python function that takes a number and returns True if it is even.
+Response 2 : 
+  def is_even(n: int) -> bool:
+      """Return True if n is even, otherwise False."""
+      return n % 2 == 0
 
